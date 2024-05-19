@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lmqvq&layout=compact)](https://github.com/lmqvq/github-readme-stats)
+![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lmqvq&show_icons=true&theme=tokyonight)
 <!--
 **lmqvq/lmqvq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
