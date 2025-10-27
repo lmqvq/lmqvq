@@ -4,27 +4,42 @@
 
 </div>
 
----
+<div align="center">
 
-### 👨‍💻 About
+### 🚀 AI Architect & Full-Stack Developer | 🇨🇳 China
 
-```javascript
-const developer = {
-  name: "LMQ",
-  role: "AI Architect & Full-Stack Developer",
-  location: "China 🇨🇳",
+<table>
+<tr>
+<td align="center" width="25%">
+<br>
+🤖<br><b>AI & LLM</b><br>
+<sub>Spring AI · RAG Systems</sub>
+<br><br>
+</td>
+<td align="center" width="25%">
+<br>
+💻<br><b>Backend</b><br>
+<sub>Java · Spring Boot</sub>
+<br><br>
+</td>
+<td align="center" width="25%">
+<br>
+🎨<br><b>Frontend</b><br>
+<sub>Vue 3 · TypeScript</sub>
+<br><br>
+</td>
+<td align="center" width="25%">
+<br>
+☁️<br><b>Cloud</b><br>
+<sub>Docker · Kubernetes</sub>
+<br><br>
+</td>
+</tr>
+</table>
 
-  expertise: {
-    ai: ["LLM Integration", "RAG Systems", "Spring AI"],
-    frontend: ["Vue 3", "TypeScript", "Modern UI/UX"],
-    backend: ["Java", "Spring Boot", "Microservices"],
-    cloud: ["Docker", "Kubernetes", "Cloud Architecture"]
-  },
+**💡 Current Focus:** Building intelligent fitness coaching systems
 
-  currentFocus: "Building intelligent fitness coaching systems",
-  philosophy: "Simple solutions to complex problems"
-};
-```
+</div>
 
 ---
 
