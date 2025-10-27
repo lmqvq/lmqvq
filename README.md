@@ -8,35 +8,39 @@
 
 ## 💫 AI Architect & Full-Stack Developer
 
-[![China](https://img.shields.io/badge/🇨🇳_China-FF0000?style=flat-square&logoColor=white)](#)
-[![Focus](https://img.shields.io/badge/💡_Building_AI_Fitness_Coach-6366F1?style=flat-square)](#)
+<img src="https://img.shields.io/badge/Location-China%20🇨🇳-gray?style=flat-square" />
+<img src="https://img.shields.io/badge/Focus-Building%20AI%20Fitness%20Coach-blueviolet?style=flat-square" />
 
 </div>
 
 <br>
 
-<div align="center">
+<table align="center">
+<tr>
+<td valign="top" width="50%">
 
-### 🎯 Tech Stack
+### 🎯 Backend & AI
+```text
+☕  Java / Spring Boot / Spring AI
+🤖  LLM Integration / RAG Systems
+🗄️  MySQL / Redis
+🔧  Microservices Architecture
+```
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+</td>
+<td valign="top" width="50%">
 
-### 🤖 AI & Cloud
+### 🎨 Frontend & DevOps
+```text
+⚡  Vue 3 / TypeScript / Vite
+🐳  Docker / Kubernetes
+☁️  Cloud-Native Architecture
+🚀  Modern UI/UX Design
+```
 
-![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG_Systems-FF6B6B?style=for-the-badge&logo=ai&logoColor=white)
-![LLM](https://img.shields.io/badge/LLM_Integration-9B59B6?style=for-the-badge&logo=openai&logoColor=white)
-![Cloud Native](https://img.shields.io/badge/Cloud_Native-0080FF?style=for-the-badge&logo=icloud&logoColor=white)
-
-</div>
+</td>
+</tr>
+</table>
 
 
 ### 📊 GitHub Stats
