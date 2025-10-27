@@ -41,40 +41,6 @@
 
 </div>
 
----
-
-### 🚀 Featured Project
-
-<table>
-<tr>
-<td width="50%">
-
-#### [AI Fitness Coach Platform](https://github.com/lmqvq/mq-ai-agent-frontend)
-
-An intelligent fitness coaching system powered by AI that provides personalized training plans and real-time guidance.
-
-**Tech Stack:**
-- 🎨 Vue 3 + TypeScript + Vite
-- ⚙️ Spring Boot + Spring AI
-- 🤖 RAG-based conversation system
-- ☁️ Cloud-native architecture
-
-**Highlights:**
-- 🤖 Intelligent chat interface
-- 📊 Personalized analytics
-- ⚡ Real-time response
-- 🎨 Modern, intuitive UI
-
-</td>
-<td width="50%">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lmqvq&repo=mq-ai-agent-frontend&theme=radical&hide_border=true&bg_color=0d1117)](https://github.com/lmqvq/mq-ai-agent-frontend)
-
-</td>
-</tr>
-</table>
-
----
 
 ### 📊 GitHub Stats
 
