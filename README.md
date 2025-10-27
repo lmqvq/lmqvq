@@ -6,38 +6,35 @@
 
 <div align="center">
 
-### 🚀 AI Architect & Full-Stack Developer | 🇨🇳 China
+## 💫 AI Architect & Full-Stack Developer
 
-<table>
-<tr>
-<td align="center" width="25%">
-<br>
-🤖<br><b>AI & LLM</b><br>
-<sub>Spring AI · RAG Systems</sub>
-<br><br>
-</td>
-<td align="center" width="25%">
-<br>
-💻<br><b>Backend</b><br>
-<sub>Java · Spring Boot</sub>
-<br><br>
-</td>
-<td align="center" width="25%">
-<br>
-🎨<br><b>Frontend</b><br>
-<sub>Vue 3 · TypeScript</sub>
-<br><br>
-</td>
-<td align="center" width="25%">
-<br>
-☁️<br><b>Cloud</b><br>
-<sub>Docker · Kubernetes</sub>
-<br><br>
-</td>
-</tr>
-</table>
+[![China](https://img.shields.io/badge/🇨🇳_China-FF0000?style=flat-square&logoColor=white)](#)
+[![Focus](https://img.shields.io/badge/💡_Building_AI_Fitness_Coach-6366F1?style=flat-square)](#)
 
-**💡 Current Focus:** Building intelligent fitness coaching systems
+</div>
+
+<br>
+
+<div align="center">
+
+### 🎯 Tech Stack
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🤖 AI & Cloud
+
+![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Systems-FF6B6B?style=for-the-badge&logo=ai&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM_Integration-9B59B6?style=for-the-badge&logo=openai&logoColor=white)
+![Cloud Native](https://img.shields.io/badge/Cloud_Native-0080FF?style=for-the-badge&logo=icloud&logoColor=white)
 
 </div>
 
