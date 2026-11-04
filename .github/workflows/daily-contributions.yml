@@ -66,7 +66,7 @@ jobs:
           for ((i=existing_count + 1; i<=target_count; i++)); do
             timestamp="$(date -u +'%Y-%m-%dT%H:%M:%SZ')"
             printf '%s | scheduled contribution %d/%d\n' "$timestamp" "$i" "$target_count" >> "$log_file"
-            git add "$log_file"
+            git add -f "$log_file"
             git commit -m "chore: daily contribution ${i}/${target_count}"
           done
 
