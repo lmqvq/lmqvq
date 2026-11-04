@@ -11,6 +11,10 @@
 <img src="https://img.shields.io/badge/Location-China%20🇨🇳-gray?style=flat-square" />
 <img src="https://img.shields.io/badge/Focus-Building%20AI%20Fitness%20Coach-blueviolet?style=flat-square" />
 
+<p>
+  <a href="https://lldcard.cc.cd"><strong>🌐 访问我的个人卡网 · lldcard.cc.cd</strong></a>
+</p>
+
 </div>
 
 <br>
@@ -53,5 +57,6 @@
 ![Snake animation](https://raw.githubusercontent.com/lmqvq/lmqvq/output/github-contribution-grid-snake.svg)
 
 </div>
+
 
 
