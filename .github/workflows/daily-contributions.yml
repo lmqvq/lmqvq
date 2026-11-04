@@ -8,6 +8,13 @@ on:
   # 允许手动触发，便于首次启用后验证
   workflow_dispatch:
 
+  # 修改工作流文件时自动验证；日志提交本身不会匹配这个路径
+  push:
+    branches:
+      - main
+    paths:
+      - .github/workflows/daily-contributions.yml
+
 permissions:
   contents: write
 
